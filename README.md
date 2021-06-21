@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tyler112120
+- 👀 I’m interested in ...Learning
+- 🌱 I’m currently learning ...how to use github
+- 💞️ I’m looking to collaborate on ...open
